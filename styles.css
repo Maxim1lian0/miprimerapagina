@@ -1,7 +1,8 @@
-body{
-  background-image: linear-gradient(rgba(0,191,0.678),rgba(0, 191, 255, 0.678) ) ;
-    flex: 100%;}
-
+body {
+  background: linear-gradient(to bottom, #052cad98, #02ccff81);
+  margin: 0;
+  padding: 0;
+}
 .video-placeholder {
   display: none;
 }   
